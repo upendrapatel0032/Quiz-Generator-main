@@ -1,6 +1,6 @@
-# Quizora – Smart Lecture Video Transcription & Quiz Generator
+# Quiz-Generator-main – Smart Lecture Video Transcription & Quiz Generator
 
-Quizora is an innovative web app designed to convert your video lectures into engaging learning tools. It seamlessly transcribes the audio and creates multiple-choice quizzes for every five-minute segment, helping both teachers and learners study more effectively and interactively.
+Quiz- Generator-main is an innovative web app designed to convert your video lectures into engaging learning tools. It seamlessly transcribes the audio and creates multiple-choice quizzes for every five-minute segment, helping both teachers and learners study more effectively and interactively.
 
 ## Features
 - **Easy Video Upload**: Upload MP4 files effortlessly using a drag-and-drop interface  
