@@ -13,7 +13,7 @@ Quizora is an innovative web app designed to convert your video lectures into en
 
 
 ## Some SnapShot Of the Project
-![image](https://github.com/user-attachments/assets/f30980f6-9a9d-4b46-86a2-3864373ac06f)
+![upendraaaaaaa](https://github.com/user-attachments/assets/7f0dbcf1-eb56-440d-97aa-0cbd4713ad06)
 ![image](https://github.com/user-attachments/assets/271249ba-96f5-42ce-b2a6-e1b7a3953da5)
 ![image](https://github.com/user-attachments/assets/b9e0ed99-69cb-48d1-bd99-e2c8b1e6aa5d)
 ![image](https://github.com/user-attachments/assets/cc8e360a-8adb-4ebf-b9c3-513278e0e9a5)
